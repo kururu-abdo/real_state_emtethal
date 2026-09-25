@@ -1,0 +1,9 @@
+{
+  "_demo": true,
+  "DEMO-001": {
+    "escrow_iban": "SA0380000000608010167519",
+    "license_number": "DEMO-LICENSE",
+    "verified": true,
+    "evidence_reference": "SYNTHETIC TEST RECORD - NOT A REAL VERIFIED PROJECT"
+  }
+}

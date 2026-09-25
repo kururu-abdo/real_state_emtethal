@@ -1,0 +1,67 @@
+{
+  "version": "demo-2026-09-25",
+  "demo": true,
+  "approved_by": "DEMO ONLY - NOT LEGAL APPROVAL",
+  "clauses": [
+    {
+      "id": "parties",
+      "ar": "الأطراف: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Parties: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "property",
+      "ar": "العقار: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Property: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "price_payment",
+      "ar": "الثمن وجدول الدفعات: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Price Payment: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "handover",
+      "ar": "التسليم: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Handover: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "delay_compensation",
+      "ar": "التعويض عن التأخير: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Delay Compensation: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "escrow",
+      "ar": "حساب الضمان: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Escrow: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "termination_refunds",
+      "ar": "الفسخ والاسترداد: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Termination Refunds: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "defects_warranty",
+      "ar": "العيوب والضمان: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Defects Warranty: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "disputes",
+      "ar": "تسوية المنازعات: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Disputes: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    },
+    {
+      "id": "disclosures",
+      "ar": "الإفصاحات والمرفقات: REVIEW_REQUIRED — أدخل النص القانوني المعتمد وراجعه قبل الاعتماد.",
+      "en": "Disclosures: REVIEW_REQUIRED — insert approved legal wording and review before approval.",
+      "source_reference": "REVIEW_REQUIRED: counsel must identify the applicable instrument, article, version and approved template."
+    }
+  ]
+}

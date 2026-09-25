@@ -1,0 +1,13 @@
+services:
+  contracts:
+    build: .
+    env_file: .env
+    environment:
+      DATA_DIR: /data
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - contract-data:/data
+    restart: unless-stopped
+volumes:
+  contract-data:
