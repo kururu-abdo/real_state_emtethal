@@ -1,0 +1,6 @@
+<resources><style name="Theme.Emtethal" parent="android:style/Theme.Material.Light.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowLightStatusBar">true</item>
+    <item name="android:colorAccent">#146453</item>
+    <item name="android:windowLightNavigationBar">true</item>
+</style></resources>

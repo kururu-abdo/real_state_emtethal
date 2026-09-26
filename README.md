@@ -103,3 +103,7 @@ Tests cover checkpoint persistence across application restart, no PDF before app
 - Image transcription is not an engineering interpretation of scale, dimensions or CAD/BIM geometry. Scanned PDFs are rejected with an OCR instruction; DWG/IFC files are unsupported. Original bytes are not retained; source hashes, extracted pages and names are retained. Keep original evidence in your governed document store.
 - Approved PDFs contain signature lines, not digital signatures. Marketing collateral and feasibility-report generation are future modules, not included endpoints.
 - Serve behind TLS; do not expose the pilot's shared-key interface directly to the public internet.
+
+## Android application
+
+The native Kotlin/Jetpack Compose client is in [`android/`](android/README.md). Open that folder in Android Studio after running `sh bootstrap-gradle.sh`. It supports Arabic-first contract creation, uploads, bilingual editing, human approval/rejection and authenticated PDF saving. See its README for emulator/USB connection instructions. GitHub Actions builds a debug APK when the Android build succeeds.
